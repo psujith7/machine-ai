@@ -1,0 +1,4 @@
+chromadb 
+sentence_transformers
+llama-cpp-python 
+pypdf
